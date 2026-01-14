@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+  color: #222;
+  transition: all 0.3s ease;
+}
+
+nav a {
+  color: #0066cc;
+  text-decoration: none;
+  margin-right: 10px;
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #ff6600;
+}
+
+input#command-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1em;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+#command-output {
+  color: #cc0000;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+/* Fade in content */
+main {
+  opacity: 0;
+  animation: fadeIn 0.8s forwards;
+}
+
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
