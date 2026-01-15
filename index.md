@@ -13,4 +13,4 @@ Explore my Portfolio Website via **Commands** or Navigation.
 - `extracurricular` → view my extracurriculars
 
 <input id="command-input" type="text" placeholder="Type 'help' to get started" autofocus>
-<div id="command-output" aria-live="polite"></p> 
+<div id="command-output" aria-live="polite">
