@@ -4,13 +4,13 @@ title: "Zoheir's Portfolio"
 ---
 
 # Welcome! 
-Explore my Portfolio Website via **commands** or navigation.
+Explore my Portfolio Website via **Commands** or Navigation.
 
-**commands** examples:
-- `experience` → see my work experience  
-- `projects` → see my projects  
+**Commands** examples:
+- `experience` → view my work experience  
+- `projects` → view my projects  
 - `skills` → view my skills & certifications  
-- `extracurricular` → see my extracurriculars
+- `extracurricular` → view my extracurriculars
 
 <input id="command-input" type="text" placeholder="Type a command and press enter" autofocus>
-<p id="command-output"></p> 
+<div id="command-output" aria-live="polite"></p> 
