@@ -8,16 +8,23 @@
   <script src="/assets/js/commands.js" defer></script>
 </head>
 <body>
-  <header>
-    <nav>
+<header>
+  <nav class="nav-bar">
+    <div class="nav-left">
       <a href="/">Home</a> |
-      <a href="/experience.html" data-command="experience">Experience</a> |
-      <a href="/projects.html" data-command="projects">Projects</a> |
-      <a href="/skills.html" data-command="skills">Skills</a> |
-      <a href="/extracurricular.html" data-command="extracurricular">Extracurricular</a>
-      <a href="/assets/files/Resume.pdf" target="_blank" rel="noopener"> | View Resume</a>
-    </nav>
-  </header>
+      <a href="/experience.html">Experience</a> |
+      <a href="/projects.html">Projects</a> |
+      <a href="/skills.html">Skills</a> |
+      <a href="/extracurricular.html">Extracurricular</a>
+    </div>
+
+    <div class="nav-right">
+      <a href="/assets/Zoheir_Resume.pdf" target="_blank" class="resume-btn">
+        View my Resume
+      </a>
+    </div>
+  </nav>
+</header>
 
   <main>
     {{ content }}

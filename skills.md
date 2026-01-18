@@ -14,6 +14,11 @@ title: Skills
 - Bash Scripting
 - Docker-based C2 infrastructure
 
+## Others
+- Microsoft Excel
+- Report Writing
+- Problem Solving
+
 ### Certifications
 - Google Cybersecurity Professional
 - TryHackMe – Jr. PenTester, Web Fundamentals
