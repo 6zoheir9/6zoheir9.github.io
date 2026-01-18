@@ -67,3 +67,12 @@ main {
   background-color: #0066cc;
   color: #fff;
 }
+
+.page-header {
+  margin-bottom: 20px;
+}
+
+#page-nav {
+  padding: 6px;
+  font-size: 0.95em;
+}

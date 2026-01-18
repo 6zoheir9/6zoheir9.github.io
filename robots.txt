@@ -1,5 +1,4 @@
-# Why are you here?
-# Nothing to see, move along
+Why are you here? Nothing to see, move along.
 
 User-agent: *
 Allow: /

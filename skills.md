@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Skills
 ---
 
@@ -14,7 +14,7 @@ title: Skills
 - Bash Scripting
 - Docker-based C2 infrastructure
 
-## Others
+### Others
 - Microsoft Excel
 - Report Writing
 - Problem Solving

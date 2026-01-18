@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Experience
 ---
 
@@ -13,11 +13,8 @@ title: Experience
 - I documented findings by generating structured reports that demonstrated exploit behavior, tool output, and potential impact.
 - I also contributed to testing for **CSRF and clickjacking** vulnerabilities while documenting observations.
 
-**Tools used:** 
-Python, Bash scripting, Golang, Kali Linux, VS Code
-
-**Techniques:** 
-NoSQL Injection, Command Injection, LDAP Injection, Business Logic Testing, Report Writing
+<p><strong>Tools used:</strong>Python, Bash scripting, Golang, Kali Linux, VS Code</p>
+<p><strong>Techniques:</strong>NoSQL Injection, Command Injection, LDAP Injection, Business Logic Testing, Report Writing</p>
 
 
 
@@ -29,14 +26,9 @@ NoSQL Injection, Command Injection, LDAP Injection, Business Logic Testing, Repo
 - I exported alert data into structured Excel sheets, standardized alert details based on client-specific requirements, and forwarded them to the respective client defense teams.
 - Through this role, I gained hands-on exposure to **incident response workflows** and learned how phishing alerts are mapped to the **MITRE ATT&CK framework** in real-world SOC operations.
 
-**Tools used:** 
-Atmos Secure
-
-**Frameworks:** 
-MITRE Att&ck
-
-**Techniques:** 
-Incident Response, Microsoft Excel
+<p><strong>Tools used:</strong>Atmos Secure</p>
+<p><strong>Frameworks:</strong>MITRE Att&ck</p>
+<p><strong>Techniques:</strong>Incident Response, Microsoft Excel</p>
 
 ## 3. Research Intern
 **Shah and Anchor Kutchhi Engineering College** · Jan 2023 - April 2023
@@ -45,8 +37,5 @@ Incident Response, Microsoft Excel
 - I performed structured searches using dark web search engines and forums to identify drug-related and human trafficking websites.
 - I analyzed collected information to identify **12+ potential websites** and documented findings with mitigation insights.
 
-**Tools used:** 
-Tails OS, Tor Browser
-
-**Techniques:** 
-Open Source Intelligence (OSINT), Deep Web Research
+<p><strong>Tools used:</strong>Tails OS, Tor Browser</p>
+<p><strong>Techniques:</strong>Open Source Intelligence (OSINT), Deep Web Research</p>
