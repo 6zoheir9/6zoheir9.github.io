@@ -76,3 +76,31 @@ main {
   padding: 6px;
   font-size: 0.95em;
 }
+
+/* Headings */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 30px;
+}
+
+main > * {
+  margin-bottom: 16px;
+}
+
+/* Command input focus */
+input#command-input:focus {
+  outline: none;
+  border-color: #0066cc;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 30px 0;
+}
