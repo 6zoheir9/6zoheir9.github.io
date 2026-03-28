@@ -12,7 +12,6 @@ title: Skills
 ### Engineering & Automation
 - Python
 - Bash Scripting
-- Docker-based C2 infrastructure
 
 ### Others
 - Microsoft Excel
