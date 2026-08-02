@@ -9,26 +9,9 @@
 </head>
 <body>
 
-  <header class="page-header">
-    <select id="page-nav">
-      <option value="">Navigate</option>
-      <option value="/">Home</option>
-      <option value="/subsites/experience.html">Experience</option>
-      <option value="/subsites/projects.html">Projects</option>
-      <option value="/subsites/skills.html">Skills</option>
-      <option value="/subsites/extracurricular.html">Extracurricular</option>
-    </select>
-  </header>
-
   <main>
     {{ content }}
   </main>
-
-  <script>
-    document.getElementById("page-nav").addEventListener("change", function () {
-      if (this.value) window.location.href = this.value;
-    });
-  </script>
 
 </body>
 </html>

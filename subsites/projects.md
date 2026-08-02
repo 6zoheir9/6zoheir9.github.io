@@ -24,7 +24,7 @@ title: Projects
 </div>
 
 <div class="zs-card">
-  <p class="zs-card-title">Controlled Payload Simulation &amp; Detection</p>
+  <p class="zs-card-title">Controlled Payload Simulation & Detection</p>
   <p class="zs-card-meta">Goal: Create a PDF payload to simulate exploitation on a Windows 10 machine</p>
   <div class="zs-pills">
     <span class="zs-pill">SE Toolkit</span>
