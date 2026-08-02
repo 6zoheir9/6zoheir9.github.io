@@ -27,7 +27,7 @@ title: Experience
 - Through this role, I gained hands-on exposure to **incident response workflows** and learned how phishing alerts are mapped to the **MITRE ATT&CK framework** in real-world SOC operations.
 
 <p><strong>Tools used:</strong>Atmos Secure</p>
-<p><strong>Frameworks:</strong>MITRE Att&ck</p>
+<p><strong>Frameworks:</strong>MITRE ATT&CK</p>
 <p><strong>Techniques:</strong>Incident Response, Microsoft Excel</p>
 
 ## 3. Research Intern
