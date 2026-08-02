@@ -10,7 +10,6 @@ My main interest spans in **Operational Technology security**. Other interested 
 
 Feel free to explore my Portfolio Website via **Commands** or Navigation.
 
-**Commands** examples:
 <div class="zsterm" id="zsterm">
   <div class="zsterm-bar">
     <span class="zsterm-dot"></span><span class="zsterm-dot"></span><span class="zsterm-dot"></span>

@@ -3,11 +3,23 @@ layout: page
 title: Extracurricular
 ---
 
-### Capture the Flag (CTF)
-- OWASP-TCET (2023)
-- IITB-CTF (2023)
-- Domains: Web, OSINT, Cryptography, Privilege Escalation
+<a href="/" class="zs-back">$ cd ~</a>
 
-### Industry Visit – AIIPL Centre
-- Networking hardware (routers, switches, IDS)
-- Digital forensics (Faraday’s Bag, Hard drive recovery)
+<p class="zs-eyebrow"># Extracurricular</p>
+
+<div class="zs-card">
+  <p class="zs-card-title">Capture The Flag (CTF)</p>
+  <p class="zs-card-meta">OWASP-TCET (2023)</p>
+  <p class="zs-card-meta">IITB-CTF (2023)</p>
+  <ul>
+    <li>Domains: Web, OSINT, Cryptography, Privilege Escalation</li>
+  </ul>
+</div>
+
+<div class="zs-card">
+  <p class="zs-card-title">Industrial Visit</p>
+  <p class="zs-card-meta">AIIPL Center, Vashi, Navi Mumbai</p>
+  <ul>
+    <li>Learnt about networking hardware (routers, switches, IDS) and digital forensics (Faraday’s Bag, Hard drive recovery)</li>
+  </ul>
+</div>

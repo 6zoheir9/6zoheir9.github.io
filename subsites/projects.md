@@ -3,21 +3,36 @@ layout: page
 title: Projects
 ---
 
-## Dockerized CTF Challenge Development
+<a href="/" class="zs-back">$ cd ~</a>
 
-<p><strong>Goal:</strong> Create scalable, containerized security challenges.</p>
-<p><strong>Tech Stack:</strong> Docker, Linux, Web Exploitation, Privilege Escalation</p>
+<p class="zs-eyebrow"># projects</p>
 
-- Designed and deployed multiple web and priv-esc challenges.
-- Increased participant success rate by **60%**.
-- Focused on realistic exploitation paths.
+<div class="zs-card">
+  <p class="zs-card-title">Dockerized CTF Challenge Development</p>
+  <p class="zs-card-meta">Goal: Create scalable, containerized security challenges</p>
+  <div class="zs-pills">
+    <span class="zs-pill">Docker</span>
+    <span class="zs-pill">Linux</span>
+    <span class="zs-pill">Web Exploitation</span>
+    <span class="zs-pill">Privilege Escalation</span>
+  </div>
+  <ul>
+    <li>Designed and deployed multiple web and priv-esc challenges.</li>
+    <li>Increased participant success rate by 60%.</li>
+    <li>Focused on realistic exploitation paths.</li>
+  </ul>
+</div>
 
----
-
-## Controlled Payload Simulation & Detection
-
-<p><strong>Goal:</strong> Create a PDF Payload to simulate exploitation on a Windows 10 Machine.</p>
-<p><strong>Tech Stack:</strong> SE Toolkit, Weevely, Kali Linux</p>
-
-- Built custom payloads to test EDR and AV detection.
-- Identified critical defensive blind spots.
+<div class="zs-card">
+  <p class="zs-card-title">Controlled Payload Simulation &amp; Detection</p>
+  <p class="zs-card-meta">Goal: Create a PDF payload to simulate exploitation on a Windows 10 machine</p>
+  <div class="zs-pills">
+    <span class="zs-pill">SE Toolkit</span>
+    <span class="zs-pill">Weevely</span>
+    <span class="zs-pill">Kali Linux</span>
+  </div>
+  <ul>
+    <li>Built custom payloads to test EDR and AV detection.</li>
+    <li>Identified critical defensive blind spots.</li>
+  </ul>
+</div>
