@@ -120,5 +120,4 @@ Feel free to explore my Portfolio Website via **Commands** or Navigation.
 })();
 </script>
 
-<input id="command-input" type="text" placeholder="Type 'help' to get started" autofocus>
 <div id="command-output" aria-live="polite">
