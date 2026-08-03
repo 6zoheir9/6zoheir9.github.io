@@ -21,7 +21,7 @@ title: Experience
 </div>
 
 <div class="zs-card">
-  <p class="zs-card-title">Technical Support Engineer</p>
+  <p class="zs-card-title">Technical Support Engineer Intern</p>
   <p class="zs-card-meta">Network TechLab Pvt. Ltd. · Dec 2023 - Jan 2024</p>
   <ul>
     <li>I supported the security operations team by assisting with alert triage using the Atmos Secure SIEM platform.</li>
