@@ -40,11 +40,12 @@ title: Skills
 
 <p class="zs-eyebrow">Certifications</p>
 <div class="zs-pills">
-  <span class="zs-pill">Google Cybersecurity Professional</span>
+  <a class="zs-pill" href="https://www.coursera.org/account/accomplishments/verify/UQB3LJ7GUUZL" target="_blank" rel="noopener">Google Cybersecurity Professional</a>
 </div>
 
 <p class="zs-eyebrow">Pathways</p>
 <div class="zs-pills">
   <span class="zs-pill">HackTheBox – Certified Defensive Security Analyst (CDSA)</span>
-  <span class="zs-pill">TryHackMe – Jr. PenTester, Web Fundamentals</span>
+  <a class="zs-pill" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XPQMHR7MQC.pdf" target="_blank" rel="noopener">TryHackMe – Jr. Penetration Tester</a>
+  <a class="zs-pill" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-M1LN9HZMAZ.pdf" target="_blank" rel="noopener">TryHackMe – Web Fundamentals</a>
 </div>
