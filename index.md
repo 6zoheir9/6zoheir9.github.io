@@ -6,7 +6,7 @@ title: "Zoheir's Portfolio"
 # Welcome! 
 My name is Zoheir Shaikh. 
 I am a Master’s student in Cybersecurity at the University of Houston with hands-on experience in security testing and automation, alert triage, and threat research.  
-My main interest spans in **Operational Technology security**. Other interested domains include **Securing Software (SDLC)**, and **Application Security** with a focus on learning how real-world security teams operate.
+My main interest spans in **Operational Technology (OT) Security**. Other interested domains include **Software Security (SDLC)** and **Application Security**, with a focus on learning how real-world security teams operate.
 
 Feel free to explore my Portfolio Website via **Commands** or Navigation.
 
