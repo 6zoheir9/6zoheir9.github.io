@@ -7,24 +7,28 @@ title: Skills
 
 <p class="zs-eyebrow"># skills</p>
 
-<p class="zs-eyebrow">Offensive Security</p>
+<p class="zs-eyebrow">Security Operations</p>
 <div class="zs-pills">
-  <span class="zs-pill">Metasploit</span>
-  <span class="zs-pill">Burp Suite</span>
-  <span class="zs-pill">Nmap</span>
-  <span class="zs-pill">Weevely</span>
-  <span class="zs-pill">SE Toolkit</span>
+  <span class="zs-pill">SIEM Monitoring</span>
+  <span class="zs-pill">Alert Triage</span>
+  <span class="zs-pill">Incident Response</span>
 </div>
 
-<p class="zs-eyebrow">Defensive Operations</p>
+<p class="zs-eyebrow">Network Analysis</p>
 <div class="zs-pills">
   <span class="zs-pill">Wireshark</span>
   <span class="zs-pill">Traffic Analysis</span>
-  <span class="zs-pill">Phishing Triage</span>
-  <span class="zs-pill">SIEM</span>
+  <span class="zs-pill">Packet Inspection</span>
 </div>
 
-<p class="zs-eyebrow">Engineering & Automation</p>
+<p class="zs-eyebrow">OT/ICS Protocols</p>
+<div class="zs-pills">
+  <span class="zs-pill">Modbus/TCP ADU</span>
+  <span class="zs-pill">PLC Address Mapping</span>
+  <span class="zs-pill">IPv4/IPv6 Subnetting</span>
+</div>
+
+<p class="zs-eyebrow">Scripting</p>
 <div class="zs-pills">
   <span class="zs-pill">Python</span>
   <span class="zs-pill">Bash Scripting</span>
