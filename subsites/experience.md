@@ -8,7 +8,7 @@ title: Experience
 <p class="zs-eyebrow"># Experience</p>
 
 <div class="zs-card">
-  <p class="zs-card-title">Red Team Analyst Intern</p>
+  <p class="zs-card-title">Cyber Intelligence Intern</p>
   <p class="zs-card-meta">DeepCytes Ventures Pvt. Ltd. · Jun 2024 – Dec 2024</p>
   <ul>
     <li>My primary responsibility was injection-based testing, where I developed and customized scripts for tools to align with the defined testing flow.</li>
