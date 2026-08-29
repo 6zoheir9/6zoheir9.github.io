@@ -6,9 +6,9 @@ title: "Zoheir's Portfolio"
 # Welcome! 
 My name is Zoheir Shaikh. 
 I am a Master’s student in Cybersecurity at the University of Houston with hands-on experience in security testing and automation, alert triage, and threat research.  
-My main interest lies in **Operational Technology (OT) Security**. Other domains I'm exploring include **Software Security (SDLC)** and **Application Security**, with a focus on learning how real-world security teams operate.
+My current focus is Blue Team / SOC Analysis. Long-term, I'm working towards OT/ICS Security, using hands-on labs to bridge IT security fundamentals into industrial control environments.
 
-Feel free to explore my Portfolio Website via **Commands** or Navigation.
+Feel free to explore my Portfolio Website via the CLI or Navigation.
 
 <div class="zsterm" id="zsterm">
   <div class="zsterm-bar">
@@ -73,8 +73,8 @@ Feel free to explore my Portfolio Website via **Commands** or Navigation.
     },
     whoami: function(){
       return "Zoheir Shaikh — Master's student in Cybersecurity @ University of Houston.\n" +
-             'Focus: OT Security\n' +
-             'Interest: SDLC, App Security';
+             'Current focus: Blue Teaming/ SOC Analysis\n' +
+             'Long-term: OT/ICS Security';
     },
     resume: function(){ window.open('/assets/files/Resume.pdf', '_blank'); return 'Opening resume in a new tab...'; },
     clear: function(){ body.innerHTML = ''; return null; },
