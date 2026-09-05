@@ -33,7 +33,7 @@ title: Projects
     <span class="zs-pill">Modbus</span>
   </div>
   <ul>
-    <li>Built a man-in-the-middle proxy that intercepts and tampers with live PLC traffic, spoofing sensor readings and injecting unauthorized commands.</li>
+    <li>Built a man-in-the-middle proxy using Python that intercepts and tampers with live PLC traffic, spoofing sensor readings and injecting unauthorized commands.</li>
     <li>Developed a direction-aware passive IDS that detects both attack types without duplicate alerting.</li>
     <li>Segmented the lab across isolated Docker containers with service-based network discovery, mirroring real OT network zoning.</li>
     <a class="zs-pill" href="https://github.com/6zoheir9/ics-modbus-lab" target="_blank" rel="noopener">GitHub</a>
