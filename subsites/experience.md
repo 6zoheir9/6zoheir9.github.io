@@ -11,7 +11,7 @@ title: Experience
   <p class="zs-card-title">Cyber Intelligence Intern</p>
   <p class="zs-card-meta">DeepCytes Ventures Pvt. Ltd. · Jun 2024 – Dec 2024</p>
   <ul>
-    <li>My primary responsibility was injection-based testing, where I developed and customized scripts for tools to align with the defined testing flow.</li>
+    <li>My primary responsibility was injection-based testing, where I developed and customized scripts for tools using AI-assisted development to align with the defined testing flow.</li>
     <li>I focused on NoSQL injection, command injection, and LDAP injection, running controlled tests against designated test environments.</li>
     <li>I documented findings by generating structured reports that demonstrated exploit behavior, tool output, and potential impact.</li>
     <li>I also contributed to testing for CSRF and clickjacking vulnerabilities while documenting observations.</li>
