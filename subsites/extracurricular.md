@@ -17,9 +17,14 @@ title: Extracurricular
 </div>
 
 <div class="zs-card">
-  <p class="zs-card-title">Industrial Visit</p>
-  <p class="zs-card-meta">AIIPL Center, Vashi, Navi Mumbai</p>
+  <p class="zs-card-title">Cloudathon @ UH (2026)</p>
+  <p class="zs-card-meta">Cybersecurity domain</p>
   <ul>
-    <li>Learnt about networking hardware (routers, switches, IDS) and digital forensics (Faraday’s Bag, Hard drive recovery)</li>
+    <li>CTFs: AWS IAM, Route 53, VPC, etc.</li>
   </ul>
+</div>
+
+<div class="zs-card">
+  <p class="zs-card-title">Cyber Force competition (2026)</p>
+  <p class="zs-card-meta">Team name - CyberCoogs</p>
 </div>
