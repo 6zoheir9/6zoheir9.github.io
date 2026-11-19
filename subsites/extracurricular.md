@@ -27,4 +27,7 @@ title: Extracurricular
 <div class="zs-card">
   <p class="zs-card-title">Cyber Force competition (2026)</p>
   <p class="zs-card-meta">Team name - CyberCoogs</p>
+<ul>
+    <li>Team-based challenges for solving anomalies and keeping services running simultaneously.</li>
+  </ul>
 </div>
