@@ -28,13 +28,13 @@ title: Projects
   <p class="zs-card-title">ICS Modbus Attack & Detection Lab</p>
   <p class="zs-card-meta">Goal: Simulate and detect a real-time Modbus attack against a segmented, containerized OT network.</p>
   <div class="zs-pills">
-    <span class="zs-pill">Python</span>
+    <span class="zs-pill">ICS</span>
     <span class="zs-pill">Docker</span>
     <span class="zs-pill">Modbus</span>
   </div>
   <ul>
-    <li>Built a man-in-the-middle proxy using Python that intercepts and tampers with live PLC traffic, spoofing sensor readings and injecting unauthorized commands.</li>
-    <li>Developed a direction-aware passive IDS that detects both attack types without duplicate alerting.</li>
+    <li>Built a man-in-the-middle proxy script that intercepts and tampers with live PLC traffic, spoofing sensor readings and injecting unauthorized commands, with the code developed using AI assistance.</li>
+    <li>Deployed a direction-aware passive IDS script, also built with AI assistance, that detects both attack types without duplicate alerting.</li>
     <li>Segmented the lab across isolated Docker containers with service-based network discovery, mirroring real OT network zoning.</li>
     <a class="zs-pill" href="https://github.com/6zoheir9/ics-modbus-lab" target="_blank" rel="noopener">GitHub</a>
   </ul>
@@ -51,6 +51,7 @@ title: Projects
   <ul>
     <li>Built a pipeline running SAST, SCA, secret scanning, and SBOM generation on every pull request.</li>
     <li>Proved real-world detection by deliberately introducing a command-injection flaw and a CVE-flagged dependency, then documenting the pipeline catching and blocking both.</li>
+    <li>Parts of the workflow configuration were built with AI assistance.</li>
     <a class="zs-pill" href="https://github.com/6zoheir9/security-pipeline-lab" target="_blank" rel="noopener">GitHub</a>
   </ul>
 </div>
