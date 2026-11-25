@@ -17,7 +17,7 @@ title: Extracurricular
 </div>
 
 <div class="zs-card">
-  <p class="zs-card-title">Cloudathon @ UH (2026)</p>
+  <p class="zs-card-title">Cloudathon @ UH (2026) - Honorable Mention</p>
   <p class="zs-card-meta">Cybersecurity domain</p>
   <ul>
     <li>CTFs: AWS IAM, Route 53, VPC, etc.</li>

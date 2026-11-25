@@ -28,12 +28,6 @@ title: Skills
   <span class="zs-pill">IPv4/IPv6 Subnetting</span>
 </div>
 
-<p class="zs-eyebrow">Scripting</p>
-<div class="zs-pills">
-  <span class="zs-pill">Python</span>
-  <span class="zs-pill">Bash Scripting</span>
-</div>
-
 <p class="zs-eyebrow">Others</p>
 <div class="zs-pills">
   <span class="zs-pill">Microsoft Excel</span>
