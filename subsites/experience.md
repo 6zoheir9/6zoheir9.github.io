@@ -11,11 +11,10 @@ title: Experience
   <p class="zs-card-title">Red Team Analyst (Cyber Intelligence Fellowship)</p>
   <p class="zs-card-meta">DeepCytes Ventures Pvt. Ltd. · Jun 2024 – Dec 2024</p>
   <ul>
-    <li>My primary responsibility was injection-based testing, where I developed and customized scripts for tools using AI-assisted development to align with the defined testing flow.</li>
-    <li>I focused on NoSQL injection, command injection, and LDAP injection, running controlled tests against designated test environments.</li>
+    <li>My primary responsibility was injection-based testing. I customized the CLI security tools I was assigned to fit the defined testing flow, using AI-assisted development, and handed them over to the development team.</li>
     <li>I documented findings by generating structured reports that demonstrated exploit behavior, tool output, and potential impact.</li>
     <li>I also contributed to testing for CSRF and clickjacking vulnerabilities while documenting observations.</li>
-    <p><strong>Tools used:</strong>Python, Bash scripting, Golang, Kali Linux, VS Code</p>
+    <p><strong>Tools used:</strong>Python, Kali Linux, VS Code</p>
     <p><strong>Techniques:</strong>NoSQL Injection, Command Injection, LDAP Injection, Business Logic Testing, Report Writing</p>
   </ul>
 </div>
